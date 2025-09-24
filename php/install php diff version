@@ -1,0 +1,31 @@
+echo _____________ php5.6 _____________
+apt-get install php5.6 -y
+apt-get install php5.6-cgi php5.6-cli php5.6-common php5.6-curl php5.6-fpm php5.6-gd php5.6-imap php5.6-intl php5.6-ldap php5.6-mbstring php5.6-mysql php5.6-opcache php5.6-pspell php5.6-readline php5.6-soap php5.6-tidy php5.6-xml php5.6-xmlrpc php5.6-zip -y
+echo _____________ php7.0 _____________
+apt-get install php7.0 -y
+apt-get install php7.0-cgi php7.0-cli php7.0-common php7.0-curl php7.0-fpm php7.0-gd php7.0-imap php7.0-intl php7.0-ldap php7.0-mbstring php7.0-mysql php7.0-opcache php7.0-pspell php7.0-readline php7.0-soap php7.0-tidy php7.0-xml php7.0-xmlrpc php7.0-zip -y
+echo _____________ php7.1 _____________
+apt-get install php7.1 -y
+apt-get install php7.1-cgi php7.1-cli php7.1-common php7.1-curl php7.1-fpm php7.1-gd php7.1-imap php7.1-intl php7.1-ldap php7.1-mbstring php7.1-mysql php7.1-opcache php7.1-pspell php7.1-readline php7.1-soap php7.1-tidy php7.1-xml php7.1-xmlrpc php7.1-zip -y
+echo _____________ php7.2 _____________
+apt-get install php7.2 -y
+apt-get install php7.2-cgi php7.2-cli php7.2-common php7.2-curl php7.2-fpm php7.2-gd php7.2-imap php7.2-intl php7.2-ldap php7.2-mbstring php7.2-mysql php7.2-opcache php7.2-pspell php7.2-readline php7.2-soap php7.2-tidy php7.2-xml php7.2-xmlrpc php7.2-zip -y
+echo _____________ php7.3 _____________
+apt-get install php7.3 -y
+apt-get install php7.3-cgi php7.3-cli php7.3-common php7.3-curl php7.3-fpm php7.3-gd php7.3-imap php7.3-intl php7.3-ldap php7.3-mbstring php7.3-mysql php7.3-opcache php7.3-pspell php7.3-readline php7.3-soap php7.3-tidy php7.3-xml php7.3-xmlrpc php7.3-zip -y
+echo _____________ php7.4 _____________
+apt-get install php7.4 -y
+apt-get install php7.4-cgi php7.4-cli php7.4-common php7.4-curl php7.4-fpm php7.4-gd php7.4-imap php7.4-intl php7.4-ldap php7.4-mbstring php7.4-mysql php7.4-opcache php7.4-pspell php7.4-readline php7.4-soap php7.4-tidy php7.4-xml php7.4-xmlrpc php7.4-zip -y
+echo _____________ php8.1 _____________
+apt-get install php8.1 -y
+apt-get install php8.1-cgi php8.1-cli php8.1-common php8.1-curl php8.1-fpm php8.1-gd php8.1-imap php8.1-intl php8.1-ldap php8.1-mbstring php8.1-mysql php8.1-opcache php8.1-pspell php8.1-readline php8.1-soap php8.1-tidy php8.1-xml php8.1-xmlrpc php8.1-zip -y
+echo _____________ php8.2 _____________
+apt-get install php8.2 -y
+apt-get install php8.2-cgi php8.2-cli php8.2-common php8.2-curl php8.2-fpm php8.2-gd php8.2-imap php8.2-intl php8.2-ldap php8.2-mbstring php8.2-mysql php8.2-opcache php8.2-pspell php8.2-readline php8.2-soap php8.2-tidy php8.2-xml php8.2-xmlrpc php8.2-zip -y
+echo _____________ php8.3 _____________
+apt-get install php8.3 -y
+apt-get install php8.3-cgi php8.3-cli php8.3-common php8.3-curl php8.3-fpm php8.3-gd php8.3-imap php8.3-intl php8.3-ldap php8.3-mbstring php8.3-mysql php8.3-opcache php8.3-pspell php8.3-readline php8.3-soap php8.3-tidy php8.3-xml php8.3-xmlrpc php8.3-zip -y
+echo _____________ php8.4 _____________
+apt-get install php8.4 -y
+apt-get install php8.4-cgi php8.4-cli php8.4-common php8.4-curl php8.4-fpm php8.4-gd php8.4-imap php8.4-intl php8.4-ldap php8.4-mbstring php8.4-mysql php8.4-opcache php8.4-pspell php8.4-readline php8.4-soap php8.4-tidy php8.4-xml php8.4-xmlrpc php8.4-zip -y
+ 
